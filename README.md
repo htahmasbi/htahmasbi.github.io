@@ -5,23 +5,21 @@
 [![Jekyll](https://img.shields.io/badge/built%20with-Jekyll-red?logo=jekyll)](https://jekyllrb.com)
 [![Last commit](https://img.shields.io/github/last-commit/htahmasbi/htahmasbi.github.io)](https://github.com/htahmasbi/htahmasbi.github.io/commits/main)
 
-Personal site built with Jekyll and hosted on GitHub Pages.
+Personal academic website built with [Academic Pages](https://academicpages.github.io) template and hosted on GitHub Pages.
 
-## Pages
-
-- **Home** — profile photo and intro
-- **[About](/about/)** — more about me
-- **[CV](/cv/)** — resume and experience
-- **[Contact](/contact/)** — get in touch
-
-## Development
+## Local development
 
 ```bash
 bundle install
-bundle exec jekyll serve
+bundle exec jekyll serve -l -H localhost
 ```
 
-## Adding your photo
+## Adding content
 
-Place your profile picture at `assets/images/profile.jpg` (square, at least 300×300 px works well).
-The site will gracefully hide the image until it's there.
+- **Publications** → add `.md` files in `_publications/`
+- **Talks** → add `.md` files in `_talks/`
+- **Teaching** → add `.md` files in `_teaching/`
+- **Portfolio** → add `.md` files in `_portfolio/`
+- **Profile photo** → place `profile.png` in `images/`
+
+See the sample files in each directory for the required front matter format.
