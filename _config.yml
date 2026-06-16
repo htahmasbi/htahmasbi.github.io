@@ -21,7 +21,7 @@ repository               : "htahmasbi/htahmasbi.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.png"
+  avatar           : "P1022563.jpg"
   name             : "Hossein Tahmasbi, Ph.D."
   bio              : "Postdoctoral researcher at CASUS–HZDR | Computational materials science, machine learning interatomic potentials, high-throughput calculations"
   location         : "Görlitz, Germany"
