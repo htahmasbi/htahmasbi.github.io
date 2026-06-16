@@ -22,10 +22,10 @@ repository               : "htahmasbi/htahmasbi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   avatar           : "profile.png"
-  name             : "Hossein Tahmasbi"
-  bio              : "Academic portfolio"
-  location         : ""
-  employer         : ""
+  name             : "Hossein Tahmasbi, Ph.D."
+  bio              : "Postdoctoral researcher at CASUS–HZDR | Computational materials science, machine learning interatomic potentials, high-throughput calculations"
+  location         : "Görlitz, Germany"
+  employer         : "CASUS–HZDR"
   email            : "h.tahmasb@gmail.com"
 
   googlescholar    : "https://scholar.google.com/citations?user=7vJsxO8AAAAJ&hl=en"
