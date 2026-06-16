@@ -7,9 +7,21 @@
 
 Personal site built with Jekyll and hosted on GitHub Pages.
 
+## Pages
+
+- **Home** — profile photo and intro
+- **[About](/about/)** — more about me
+- **[CV](/cv/)** — resume and experience
+- **[Contact](/contact/)** — get in touch
+
 ## Development
 
 ```bash
 bundle install
 bundle exec jekyll serve
 ```
+
+## Adding your photo
+
+Place your profile picture at `assets/images/profile.jpg` (square, at least 300×300 px works well).
+The site will gracefully hide the image until it's there.
