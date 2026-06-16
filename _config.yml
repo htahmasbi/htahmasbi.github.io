@@ -1,13 +1,13 @@
 title: Hossein Tahmasbi
-email: htahmasbi@example.com
+email: h.tahmasb@gmail.com
 description: >-
   Personal site of Hossein Tahmasbi — software engineer, problem solver,
   and lifelong learner.
 baseurl: ""
 url: "https://htahmasbi.github.io"
-twitter_username: htahmasbi
+gitlab_username: h.tahmasbi
 github_username: htahmasbi
-linkedin_username: htahmasbi
+linkedin_username: hossein-tahmasbi-492372172
 
 markdown: kramdown
 theme: minima
