@@ -1,7 +1,7 @@
 ---
 title: "MALA"
 excerpt: "Materials Learning Algorithms. A data-driven framework for predicting materials properties using machine learning."
-collection: portfolio
+collection: research
 ---
 
 MALA (Materials Learning Algorithms) is a data-driven framework for predicting materials properties using machine learning.

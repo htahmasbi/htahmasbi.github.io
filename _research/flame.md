@@ -1,7 +1,7 @@
 ---
 title: "FLAME"
 excerpt: "A library for atomistic modeling environments. FLAME is a computational library for developing neural network interatomic potentials, structure prediction, and atomistic simulations."
-collection: portfolio
+collection: research
 ---
 
 FLAME is a library for atomistic modeling environments, featuring neural network interatomic potentials and structure prediction capabilities.

@@ -2,8 +2,8 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Research"
+    url: /research/
 
   - title: "Contact"
     url: /contact/
