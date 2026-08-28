@@ -43,7 +43,7 @@ Skills
 
 Languages
 =====
-* **Persian** (native), **English** (fluent), **German** (add your level)
+* **Persian** (native), **English** (fluent), **German** (B2)
 
 Publications
 =====

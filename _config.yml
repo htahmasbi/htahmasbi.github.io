@@ -21,7 +21,6 @@ repository               : "htahmasbi/htahmasbi.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "P1022563.jpg"
   name             : "Hossein Tahmasbi, Ph.D."
   bio              : "Computational materials scientist — machine learning interatomic potentials, benchmarking & validation, high-throughput DFT/ML workflows. Currently at CASUS–HZDR."
   location         : "Görlitz, Germany"
@@ -97,7 +96,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "profile.png"  # Social media default site image
+og_image                 :  # Social media default site image (removed photo)
 og_description           : "Hossein Tahmasbi — computational materials scientist: machine learning interatomic potentials, benchmarking and validation, high-throughput calculations and materials discovery."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
