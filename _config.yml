@@ -29,7 +29,7 @@ author:
   email            : "h.tahmasb@gmail.com"
 
   googlescholar    : "https://scholar.google.com/citations?user=7vJsxO8AAAAJ&hl=en"
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3072-8217"
+  orcid            : "https://orcid.org/0000-0002-3072-8217"
 
   github           : "htahmasbi"
   gitlab           : "h.tahmasbi"
@@ -97,8 +97,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "profile.png"  # Social media default site image
+og_description           : "Hossein Tahmasbi — computational materials scientist: machine learning interatomic potentials, benchmarking and validation, high-throughput calculations and materials discovery."
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
