@@ -11,7 +11,7 @@ redirect_from:
 
 Download: [CV (short, technical)](/files/CV_HTahmasbi_Short_Technical.pdf)
 
-Computational materials scientist with a Ph.D. in condensed-matter physics and 5+ years of postdoctoral experience at CASUS–HZDR and Leiden University. I develop — and, just as importantly, **evaluate** — machine learning interatomic potentials (MLIPs): benchmarking foundation models for materials, building high-throughput DFT/ML workflows, and validating predictions against both ab initio and experimental data.
+Computational materials scientist with a Ph.D. in condensed-matter physics and 7 years of postdoctoral research experience at CASUS–HZDR and Leiden University. I develop — and, just as importantly, **evaluate** — machine learning interatomic potentials (MLIPs): benchmarking foundation models for materials, building high-throughput DFT/ML workflows, and validating predictions against both ab initio and experimental data.
 
 Work experience
 =====
@@ -39,6 +39,11 @@ Skills
 * **ML:** Neural Network Potentials, Machine Learning Interatomic Potentials (MLIPs), model benchmarking & validation
 * **Visualization:** VESTA, V-Sim, VMD
 * **Tools:** Git, GitHub/GitLab, LaTeX, Jupyter Notebooks
+* **Open-source:** [aiida-gw](https://github.com/htahmasbi/aiida-gw), [ALMO_EDA](https://github.com/htahmasbi/ALMO_EDA), [FLAME](https://github.com/flame-code/FLAME), [PyFLAME](https://github.com/flame-code/PyFLAME)
+
+Languages
+=====
+* **Persian** (native), **English** (fluent), **German** (add your level)
 
 Publications
 =====

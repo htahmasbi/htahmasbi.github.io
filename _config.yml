@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Hossein Tahmasbi"
 title_separator          : "-"
 name                     : &name "Hossein Tahmasbi"
-description              : &description "Academic portfolio of Hossein Tahmasbi"
+description              : &description "Hossein Tahmasbi — computational materials scientist: machine learning interatomic potentials, benchmarking and validation, high-throughput materials discovery."
 url                      : https://htahmasbi.github.io
 baseurl                  : ""
 repository               : "htahmasbi/htahmasbi.github.io"
@@ -23,7 +23,7 @@ repository               : "htahmasbi/htahmasbi.github.io"
 author:
   avatar           : "P1022563.jpg"
   name             : "Hossein Tahmasbi, Ph.D."
-  bio              : "Postdoctoral researcher at CASUS–HZDR | Computational materials science, machine learning interatomic potentials, high-throughput calculations"
+  bio              : "Computational materials scientist — machine learning interatomic potentials, benchmarking & validation, high-throughput DFT/ML workflows. Currently at CASUS–HZDR."
   location         : "Görlitz, Germany"
   employer         : "CASUS–HZDR"
   email            : "h.tahmasb@gmail.com"
