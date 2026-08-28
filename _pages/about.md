@@ -17,7 +17,7 @@ My research focus: building, and just as importantly **evaluating**, machine lea
 
 I completed my **Ph.D. in Condensed-Matter Physics** at the Institute for Advanced Studies in Basic Sciences (IASBS), with a visiting research stay at **Leiden University**, and am currently a postdoctoral researcher at [CASUS–HZDR](https://www.casus.science/) in Görlitz, Germany.
 
-Here you can find my [publications](/publications/), [research](/research/), and [CV](/cv/).
+Here you can find my [research](/research/), [CV](/cv/), and [publications on Google Scholar](https://scholar.google.com/citations?user=7vJsxO8AAAAJ).
 
 ---
 
