@@ -2,6 +2,7 @@
 title: "PyFLAME"
 excerpt: "An automated workflow for developing neural network interatomic potentials with FLAME, minimizing human intervention in data generation and training."
 collection: research
+sort_order: 2
 ---
 
 PyFLAME automates the development of neural network interatomic potentials using the methods implemented in the FLAME library. Starting from ab initio calculations of bulk structures, the workflow iterates between training the potential and crystal-structure prediction to grow a diverse, representative training dataset — all with minimal human intervention.

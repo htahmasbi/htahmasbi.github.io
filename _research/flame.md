@@ -2,6 +2,7 @@
 title: "FLAME"
 excerpt: "A library for atomistic modeling environments: neural network interatomic potentials, minima hopping structure prediction, and exploration of potential energy surfaces."
 collection: research
+sort_order: 3
 ---
 
 FLAME (a library for atomistic modeling environments) is an open-source, highly modular software package for exploring potential energy surfaces of complex condensed-matter systems. It implements neural network interatomic potentials (NNPs), minima hopping structure prediction, molecular dynamics, and saddle-point searches in a single framework.

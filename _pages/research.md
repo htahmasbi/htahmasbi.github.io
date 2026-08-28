@@ -10,6 +10,8 @@ redirect_from:
 {% include base_path %}
 
 
-{% for post in site.research %}
+{% assign researches = site.research | sort: "sort_order" %}
+
+{% for post in researches %}
   {% include archive-single.html %}
 {% endfor %}
